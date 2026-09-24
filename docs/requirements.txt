@@ -1,0 +1,15 @@
+# FastAPI API framework and high-performance server
+fastapi==0.110.0
+uvicorn==0.29.0
+
+# Data validation and strictly typed JSON parsing
+pydantic==2.6.4
+
+# Async LLM inference clients
+groq==0.4.2
+httpx==0.27.0
+
+# CI/CD and Testing
+pytest==8.1.1
+pytest-asyncio==0.23.6
+flake8==7.0.0
