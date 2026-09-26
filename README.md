@@ -145,12 +145,18 @@ Sprint 3-4 (GenUI Dev): Build and stress-test interactive frontend components an
 
 Sprint 5-6 (A/B Test): Route 5% of production traffic to Variant B (Full DCD Architecture) vs Variant A (Control/Flat Text). Analyze telemetry and prepare executive readout for global rollout.
 
-
 ## 🗂️ Repository Navigation
-* [`/docs/PRD_Adaptive_Depth.md`](./docs/PRD_Adaptive_Depth.md): Core Product Requirements and KPIs.
-* [`/docs/Architecture_Tradeoffs.md`](./docs/Architecture_Tradeoffs.md): Enterprise scalability planning, edge cases, and distributed mitigation strategies. *(Start here for system design).*
-* [`/docs/Developer_Onboarding.md`](./docs/Developer_Onboarding.md): Step-by-step execution flow of the DCD pipeline.
-* [`/src`](./src): Python backend implementation featuring the Groq intent classifier and FastAPI routing logic.
+* [/docs/PRD_Adaptive_Depth.md](./docs/PRD_Adaptive_Depth.md): Core Product Requirements and KPIs.
+
+* [/docs/Architecture_Tradeoffs.md](./docs/Architecture_Tradeoffs.md): Enterprise scalability planning, edge cases, and distributed mitigation strategies. *(Start here for system design).*
+
+* [/docs/Developer_Onboarding.md](./docs/Developer_Onboarding.md): Step-by-step execution flow of the DCD pipeline.
+
+* [/src](./src): Python backend implementation featuring the Groq intent classifier and FastAPI routing logic.
+
+
+
+
 
 
 
