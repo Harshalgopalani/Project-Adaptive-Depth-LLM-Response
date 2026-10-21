@@ -43,15 +43,3 @@ This document serves as the central reference guide for all acronyms, technical 
 | **ZDR** | Zero Data Retention | Enterprise API security compliance parameter where third-party model providers guarantee no user data is saved or stored. |
 
 ---
-
-## 2. Updated Repository Navigation Map
-
-When incorporating this glossary into your repo, update your main `README.md` navigation block to include the link:
-
-- **`README.md`**: Main Portfolio Landing Page
-- **`docs/Business_Requirements_Document.md`**: Core BRD & Requirements Catalog
-- **`docs/Architecture_and_Governance.md`**: Data Pipeline & EU AI Act Governance
-- **`docs/User_Stories_And_Gherkin.feature`**: Agile Stories & ML Acceptance Criteria
-- **`docs/GLOSSARY.md`**: **Central Domain Acronym & Technical Glossary (This Document)**
-- **`validation/UAT_Test_Script.md`**: User Acceptance Testing Script
-- **`validation/Business_ROI_Matrix.md`**: Financial ROI & ML Success Metrics
