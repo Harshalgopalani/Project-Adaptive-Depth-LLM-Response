@@ -1,6 +1,6 @@
 # Business Requirements Document (BRD)
 **Project Name:** Project Adaptive Depth (Dynamic Contextual Depth - DCD)  
-**Requirements Gathering source: ** Users interview, In-depth Research, Problem framing
+**Requirements Gathering source:** Users interview, In-depth Research, Problem framing  
 
 **Document Version:** 1.0  
 
