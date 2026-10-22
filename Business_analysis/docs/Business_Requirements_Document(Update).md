@@ -1,4 +1,3 @@
-```markdown
 # Business Requirements Document (BRD)
 
 **Project Name:** Project Adaptive Depth (Dynamic Contextual Depth - DCD)  
